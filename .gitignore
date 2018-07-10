@@ -1,0 +1,12 @@
+#Engine 
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+#VS 
+
+*.sln
+*.sdf
+*.suo
